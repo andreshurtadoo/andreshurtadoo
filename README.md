@@ -1,5 +1,7 @@
-### Hi there 👋
+### console.log("Hi, Im Andres 👋") 
 
+I`m, student of computer engineering who is passionate about web applications. Some techologies i enjoy working with include JavaScript, TypeScript and Node.js ⚡
+Creating similar applications of famous website usig Apis is another one of my favorite hobbies ✨
 <!--
 **andreshurtadoo/andreshurtadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
