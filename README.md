@@ -1,7 +1,6 @@
 ### console.log("Hi, I`m Andres 👋👩🏾‍💻") 
 
-I`m, student of computer engineering who is passionate about web applications. Some techologies i enjoy working with include JavaScript, TypeScript and Node.js ⚡
-Creating apps similar to famous websites usig Apis is another one of my favorite hobbies
+I`m, a student of computer engineering who is passionate about web applications. Some technologies I enjoy working with include JavaScript, TypeScript and Node.js ⚡ Creating apps similar to famous websites using Apis is another one of my favorite hobbies
 
 ![dino.gif](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
