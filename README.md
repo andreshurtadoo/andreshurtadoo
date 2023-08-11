@@ -1,6 +1,6 @@
 ### console.log("Hi, I`m Andres 👋👩🏾‍💻") 
 
-I`m, a student of computer engineering who is passionate about web applications. Some technologies I enjoy working with include JavaScript, TypeScript and Node.js ⚡ Creating apps similar to famous websites using Apis is another one of my favorite hobbies
+Computer Engineer Student from Jose Antonio Paez University. Passionate for IT and entrepreneurship. Focus to continue acquiring new knowledge and experiences to meet new challenges.
 
 ![dino.gif](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
