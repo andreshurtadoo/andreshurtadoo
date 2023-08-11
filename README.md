@@ -5,7 +5,6 @@ Computer Engineer Student from Jose Antonio Paez University. Passionate for IT a
 ![dino.gif](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning JavaScript
 
 ## Languages and tools
 ![html](https://camo.githubusercontent.com/2ec9a4bbf42ae2f9f5e92c17154ef305813f429be0abf34168e613faeb6d5f65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c2d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35)
