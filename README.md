@@ -29,6 +29,13 @@ Here are some of the technologies and tools I frequently work with:
 ![Jest](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&color=C21325)
 ![Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&color=2496ED)
 
+## 📈 GitHub Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=andreshurtadoo&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=andreshurtadoo&langs_count=5&theme=tokyonight)]()
+
+
+
 Feel free to explore my repositories and projects to get a glimpse of my coding journey. If you have any questions or would like to collaborate, don't hesitate to reach out!
 
 Happy coding! 🚀
