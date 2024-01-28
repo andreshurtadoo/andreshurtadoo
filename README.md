@@ -1,16 +1,37 @@
-### console.log("Hi, I`m Andres 👋👩🏾‍💻") 
+# 👋 Hello! My name is Andrés
 
-Computer Engineer Student from Jose Antonio Paez University. Passionate for IT and entrepreneurship. Focus to continue acquiring new knowledge and experiences to meet new challenges.
+Welcome to my GitHub profile! I'm a passionate software engineer with over 3 years of hands-on experience in web development, system design, algorithms, and cloud computing. My journey has been shaped through personal projects, freelance work, and dedicated research in the engineering domain, showcasing my expertise and commitment to continuous learning.
 
-![dino.gif](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
+## 🚀 What I Bring to the Table
 
-- 🔭 I’m currently working on myself
+- **Full-Stack Development:** Proficient in both front-end and back-end technologies, specializing in JavaScript and TypeScript.
+  
+- **React Enthusiast:** Love building dynamic and responsive user interfaces with React.
+  
+- **Modern JavaScript:** Strong command of ECMAScript standards and best practices.
+  
+- **Node.js & Vue.js:** Experienced in server-side scripting with Node.js and Vue.js for efficient web application development.
+  
+- **Tooling Mastery:** Skilled in utilizing Webpack for bundling and Jest for testing, ensuring robust and scalable codebases.
+  
+- **Containerization:** Familiar with Docker for creating isolated and portable environments.
 
-## 🛠️ Technologies & tools
-![html]([https://camo.githubusercontent.com/2ec9a4bbf42ae2f9f5e92c17154ef305813f429be0abf34168e613faeb6d5f65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d68746d6c2d6666666666663f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35](https://camo.githubusercontent.com/616d46e35e90a7728cc899c6e43156c5cab1938c28eb648f5231d7ade728592d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d547970655363726970742d696e666f726d6174696f6e616c3f7374796c653d666c617426636f6c6f723d696e666f726d6174696f6e616c))
+## 🛠️ Technologies & Tools
 
+Here are some of the technologies and tools I frequently work with:
 
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=yellow)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=blue)
+![React](https://img.shields.io/badge/Library-React-informational?style=flat&logo=react&color=61DAFB)
+![Node.js](https://img.shields.io/badge/Platform-Node.js-informational?style=flat&logo=node.js&color=8CC84B)
+![Vue.js](https://img.shields.io/badge/Library-Vue.js-informational?style=flat&logo=vue.js&color=4FC08D)
+![Webpack](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&logo=webpack&color=8DD6F9)
+![Jest](https://img.shields.io/badge/Testing-Jest-informational?style=flat&logo=jest&color=C21325)
+![Docker](https://img.shields.io/badge/Containerization-Docker-informational?style=flat&logo=docker&color=2496ED)
 
+Feel free to explore my repositories and projects to get a glimpse of my coding journey. If you have any questions or would like to collaborate, don't hesitate to reach out!
+
+Happy coding! 🚀
 
 <!--
 **andreshurtadoo/andreshurtadoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
